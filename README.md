@@ -9,4 +9,3 @@
 
 - 💻 Some of my projects can be found on [Github](https://github.com/soareseric)
 - 💼 Here's my LinkedIn - [LinkedIn](https://www.linkedin.com/in/eric-soares-maciel/)
-- 📫 Or my email - [Email](contato.eric.sm@gmail.com)
