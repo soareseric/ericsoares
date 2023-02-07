@@ -1,8 +1,8 @@
 ## Olá! I'm Eric Soares 👋
 
 - 🇧🇷 I'm from Brazil
-- 🔭 I'm an Data Scientist.
-- 👯 I currently giving some Math classes at my University. [Link](https://github.com/soareseric/math)  
+- 🔭 I'm an Data Analytics.
+- 👯 I currently giving some Discrete Mathematics classes at my University. [Link](https://github.com/soareseric/math)  
 - 📚 Studying Data Science & Data Analytics at Data Science Academy.
 
 ### Find me 🌎
